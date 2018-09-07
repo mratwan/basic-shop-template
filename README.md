@@ -1,3 +1,3 @@
 basic shop template
 ===================
-this template just made for statis website.
+this template just made for static website.
